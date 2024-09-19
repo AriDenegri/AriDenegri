@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [(NOT YET)]((NOT YET))
+- 👨‍💻 All of my projects are available at (NOT YET)
 
 - 📫 How to reach me **arieldenegri0505@gmail.com**
 
