@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ari</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at this github.
 
